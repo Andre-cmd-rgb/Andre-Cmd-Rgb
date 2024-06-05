@@ -1,5 +1,5 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Star-Os
-- 🌱 I’m currently learning linux (how it works)
+- 🔭 I’m currently working on Star-Os-Micropython
+- 🌱 I’m currently learning micropython (how it works)
