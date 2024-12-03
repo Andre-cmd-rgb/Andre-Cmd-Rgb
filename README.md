@@ -26,4 +26,5 @@ Below is a list of my recent projects:
 - Frameworks & Tools: Flask, Spectre.Console, Cosmos
 - Specialties: OS development, CLI design, Web App creation, Game mechanics
 
-![Andre-Cmd-Rgb's GitHub stats](https://github-readme-stats-henna-two-20.vercel.app//api?username=Andre-cmd-rgb&show_icons=true&theme=tokyonight)
+
+![Andre-Cmd-Rgb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andre-cmd-rgb&show_icons=true&theme=transparent)
