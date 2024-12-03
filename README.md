@@ -26,5 +26,7 @@ Below is a list of my recent projects:
 - Frameworks & Tools: Flask, Spectre.Console, Cosmos
 - Specialties: OS development, CLI design, Web App creation, Game mechanics
 
+# My GitHub stats
+i know they are bad but i like the look of it not the actual data
 
 ![Andre-Cmd-Rgb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andre-cmd-rgb&show_icons=true&theme=transparent)
