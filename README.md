@@ -1,5 +1,4 @@
-### Hi there 👋
-# 👨‍💻 About Me
+# Hi there 👋
 Welcome to my Github profile! I’m a developer (btw i'm 16 so don't expect that much). From a custom linux based distro to web apps and game development projects, I love creating random stuff!
 
 Below is a list of my recent projects:
