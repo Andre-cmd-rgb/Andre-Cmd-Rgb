@@ -15,9 +15,6 @@ Below is a list of my recent projects:
     - Features progression mechanics and achievements.
     - Built with optimized game loops and a smooth user experience in mind.
     - GitHub: Clicker Game
-- ### Star OS: An experimental operating system written in C# using Cosmos.
-    - Focused on creating a modular, efficient environment for learning and innovation.
-    - GitHub: Star OS
 - ### Star Shell: A customizable command-line interface for Windows.
     - Implements color-coded output, command auto-completion, and more!.
     - GitHub: Star Shell
